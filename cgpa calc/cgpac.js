@@ -1,9 +1,10 @@
-console.log(1);
+
 var button=document.getElementById('calculate');
 
 
 function calc()
 {
+
     var a=Number(document.getElementById('1').value);
     var b=Number(document.getElementById('2').value);
     var c=Number(document.getElementById('3').value);
